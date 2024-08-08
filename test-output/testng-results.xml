@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-19T01:43:10 GST" name="Default suite" finished-at="2024-07-19T01:43:10 GST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2024-07-19T01:43:10 GST" name="Default test" finished-at="2024-07-19T01:43:10 GST" duration-ms="54">
+      <class name="com.seleniumTraining.day3.testNgsample">
+        <test-method signature="tc01()[pri:0, instance:com.seleniumTraining.day3.testNgsample@2ddc9a9f]" started-at="2024-07-19T01:43:10 GST" name="tc01" finished-at="2024-07-19T01:43:10 GST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- com.seleniumTraining.day3.testNgsample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
